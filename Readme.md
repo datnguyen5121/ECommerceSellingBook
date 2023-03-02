@@ -25,7 +25,7 @@ This is a e-commerce project with SERN (MongoDb, Express, ReactJs, NodeJs, Redux
  ![image](https://user-images.githubusercontent.com/109260008/222504555-b6229842-a25b-428d-87ea-5fb61a75b174.png)
 - set quantity for book
  ![image](https://user-images.githubusercontent.com/109260008/222504726-43e80594-fd15-496e-bc33-969225776af5.png)
-- 
+
 - add to cart
  ![image](https://user-images.githubusercontent.com/109260008/222504807-3c60fea8-6d27-4e1b-bf50-d139d5ebf4a2.png)
 
