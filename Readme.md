@@ -5,20 +5,20 @@ This is a e-commerce project with SERN (MongoDb, Express, ReactJs, NodeJs, Redux
   - FrontEnd: ReactJS, Redux, Ant design
   - BackEnd: NodeJs, RestFulAPI, Authentication(JWT)
 - Feature:
-  - Log in, Log out [ ]
-  - Forgot password [x]
-  - Add book to cart [ ]
-  - Set quantity of book []
-  - Select book to buy []
-  - Search []
-  - Edit information account. [x]
-  - Category []
-  - Pagination []
-  - Switch Infor Booking Page [x]
+  - Log in, Log out ✔️
+  - Forgot password 🚩
+  - Add book to cart ✔️
+  - Set quantity of book ✔️
+  - Select book to buy ✔️
+  - Search ✔️
+  - Edit information account. 🚩
+  - Category ✔️
+  - Pagination ✔️
+  - Switch Infor Booking Page 🚩
  - Feature of Admin Page:
-    - CRUD Account []
-    - CRUD BOOK []
-    - Authentication []
+    - CRUD Account ✔️
+    - CRUD BOOK ✔️
+    - Authentication ✔️
   
 ## User Page
 - Login
