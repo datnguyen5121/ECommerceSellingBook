@@ -2,7 +2,7 @@
 
 This is a e-commerce project with SERN (MongoDb, Express, ReactJs, NodeJs, Redux) + Antd
 
-## Page
+## User Page
 - Login
 ![image](https://user-images.githubusercontent.com/109260008/222503555-496fde37-fc96-49f6-b81b-517d1f6cd453.png)
 
@@ -36,7 +36,7 @@ This is a e-commerce project with SERN (MongoDb, Express, ReactJs, NodeJs, Redux
  ![image](https://user-images.githubusercontent.com/109260008/222505508-7213d39c-b355-47fc-a115-b9d1a89a3b5c.png)
 
 
-- ADMIN
+## ADMIN Page
 - Manage Account
  ![image](https://user-images.githubusercontent.com/109260008/222505678-42714f36-2fba-4c0a-b8f8-9bc827dd4a32.png)
 - CRUD account
