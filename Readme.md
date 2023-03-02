@@ -4,7 +4,15 @@ This is a e-commerce project with SERN (MongoDb, Express, ReactJs, NodeJs, Redux
 - Tech: 
   - FrontEnd: ReactJS, Redux, Ant design
   - BackEnd: NodeJs, RestFulAPI, Authentication(JWT)
-
+- Feature:
+  - Log in, Log out
+  - Forgot password
+  - Add book to cart
+  - Set quantity
+  - Select book to buy 
+  - Search 
+  - Edit information account.
+  - Category
 ## User Page
 - Login
 ![image](https://user-images.githubusercontent.com/109260008/222503555-496fde37-fc96-49f6-b81b-517d1f6cd453.png)
@@ -23,12 +31,19 @@ This is a e-commerce project with SERN (MongoDb, Express, ReactJs, NodeJs, Redux
 
 - Detail Book
  ![image](https://user-images.githubusercontent.com/109260008/222504555-b6229842-a25b-428d-87ea-5fb61a75b174.png)
+ 
 - set quantity for book
  ![image](https://user-images.githubusercontent.com/109260008/222504726-43e80594-fd15-496e-bc33-969225776af5.png)
 
 - Search
   ![image](https://user-images.githubusercontent.com/109260008/222511473-3c1b0dde-862b-4d89-b1f3-2718f67c2bf8.png)
 
+- Category 
+![image](https://user-images.githubusercontent.com/109260008/222512576-75f2d7d1-375d-489f-985f-887391f06a96.png)
+ Select SelftHelp Book.
+![image](https://user-images.githubusercontent.com/109260008/222512663-867e5808-9dbb-4f7c-9899-bb295254606e.png)
+
+ 
 
 - add to cart
  ![image](https://user-images.githubusercontent.com/109260008/222504807-3c60fea8-6d27-4e1b-bf50-d139d5ebf4a2.png)
