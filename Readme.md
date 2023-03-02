@@ -40,7 +40,7 @@ This is a e-commerce project with SERN (MongoDb, Express, ReactJs, NodeJs, Redux
 
 - Category 
 ![image](https://user-images.githubusercontent.com/109260008/222512576-75f2d7d1-375d-489f-985f-887391f06a96.png)
- Select SelftHelp Book.
+-Select Self-Help Book.
 ![image](https://user-images.githubusercontent.com/109260008/222512663-867e5808-9dbb-4f7c-9899-bb295254606e.png)
 
  
