@@ -1,6 +1,9 @@
 # Introduction
 
 This is a e-commerce project with SERN (MongoDb, Express, ReactJs, NodeJs, Redux) + Antd
+Tech: 
+  - FrontEnd: ReactJS, Redux, Ant design
+  - BackEnd: NodeJs, RestFulAPI, Authentication(JWT)
 
 ## User Page
 - Login
@@ -56,6 +59,12 @@ This is a e-commerce project with SERN (MongoDb, Express, ReactJs, NodeJs, Redux
 ![image](https://user-images.githubusercontent.com/109260008/222506664-ef9a36d0-e3a0-414b-9040-aae373fefb5a.png)
 ![image](https://user-images.githubusercontent.com/109260008/222506812-44e80ff7-5a54-41d3-855b-eeaa7fd8cffc.png)
 
+## Authentication
+This project authentication based on RoleId (USER,ADMIN)
+This is a User Account and haven't the permission to access admin page
+![image](https://user-images.githubusercontent.com/109260008/222508830-a28391b4-cfdd-412e-804a-f3d05b25f18c.png)
+
+![image](https://user-images.githubusercontent.com/109260008/222508562-6d11d603-3ca0-4d5c-80b8-3870f4e920ec.png)
 
 
  
