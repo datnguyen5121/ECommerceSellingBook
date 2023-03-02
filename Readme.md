@@ -1,7 +1,7 @@
 # Introduction
 
 This is a e-commerce project with SERN (MongoDb, Express, ReactJs, NodeJs, Redux) + Antd
--Tech: 
+- Tech: 
   - FrontEnd: ReactJS, Redux, Ant design
   - BackEnd: NodeJs, RestFulAPI, Authentication(JWT)
 
